@@ -25,3 +25,5 @@ Make sure you have **Python 3.x** installed on your system.
    ```bash
    git clone https://github.com/mohamadee30/passcraftbyradx.git
    cd passcraftbyradx
+   pip install -r requirements.txt
+   python3 PassCraft.py
