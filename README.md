@@ -10,7 +10,7 @@ PassCraft is an all-in-one Python-based security suite designed for password gen
 
 ## 🚀 Features
 
-<img width="1024" height="576" alt="photo" src="https://github.com/user-attachments/assets/8772505d-f10d-4fed-ad47-add4c5c1c5e9" />
+![PassCraft Framework Interface](https://github.com/user-attachments/assets/8772505d-f10d-4fed-ad47-add4c5c1c5e9)
 
 
 
