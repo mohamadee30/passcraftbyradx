@@ -23,5 +23,5 @@ Make sure you have **Python 3.x** installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/PassCraft.git](https://github.com/YOUR_USERNAME/PassCraft.git)
-   cd PassCraft
+   git clone https://github.com/mohamadee30/passcraftbyradx.git
+   cd passcraftbyradx
