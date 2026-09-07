@@ -34,6 +34,3 @@ Make sure you have **Python 3.x** installed on your system.
 4. Run The Tool
    ```bash
    python3 PassCraft.py
-
-
-   
