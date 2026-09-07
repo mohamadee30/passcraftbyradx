@@ -11,11 +11,6 @@ PassCraft is an all-in-one Python-based security suite designed for password gen
 ## 🚀 Features
 
 
-
-
-
-
-
 - **Wordlist Generator:** Generate custom targeted wordlists based on personal info, dates, and patterns.
 - **Hash Cracker:** Crack hashes using custom wordlists.
 - **Hash Type Identifier:** Automatically identify hash types based on string length.
