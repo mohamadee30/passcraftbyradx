@@ -24,6 +24,16 @@ Make sure you have **Python 3.x** installed on your system.
 1. Clone the repository:
    ```bash
    git clone https://github.com/mohamadee30/passcraftbyradx.git
+2. Change Directory:
+```bash
    cd passcraftbyradx
+   ```
+3. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
+4. Run The Tool
+   ```bash
    python3 PassCraft.py
+
+
+   
