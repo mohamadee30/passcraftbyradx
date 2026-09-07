@@ -25,7 +25,7 @@ Make sure you have **Python 3.x** installed on your system.
    ```bash
    git clone https://github.com/mohamadee30/passcraftbyradx.git
 2. Change Directory:
-```bash
+   ```bash
    cd passcraftbyradx
    ```
 3. Install the required dependencies:
