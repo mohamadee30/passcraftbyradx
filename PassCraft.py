@@ -43,7 +43,7 @@ while True:
     print(Fore.BLUE + "2 - Hash Crack")
     print(Fore.BLUE + "3 - Hash Type Grapper")
     print(Fore.BLUE + "4 - Encode/Decode")
-    print(Fore.Blue + "5 - SSH Brute Forcer")
+    print(Fore.BLUE + "5 - SSH Brute Forcer")
     print(Fore.BLUE + "6 - Exit")
     choice = input("\nplease choose a tool : ").strip()
 
